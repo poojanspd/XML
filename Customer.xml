@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer xmlns="http://com.imcs.training/Customer/1.0">
+  <customerId>1</customerId>
+  <name>poojan</name>
+  <dateOfbirth>2001-01-01</dateOfbirth>
+  <annualSalary>2000.00</annualSalary>
+  <address>
+    <streetName>abcd</streetName>
+    <no>123</no>
+    <zipCode>765432</zipCode>
+    <city>harrison</city>
+  </address>
+  <payment>
+    <cardNumber>4563214563298745</cardNumber>
+    <cardName>poojan shah</cardName>
+    <dateFrom>2001-01-01</dateFrom>
+    <dateTo>2021-01-01</dateTo>
+    <cardType>CREDITCARD</cardType>
+  </payment>
+  <payment>
+    <cardNumber>7896214563298745</cardNumber>
+    <cardName>poojan</cardName>
+    <dateFrom>2000-01-01</dateFrom>
+    <dateTo>2019-01-01</dateTo>
+    <cardType>DEBITCARD</cardType>
+  </payment>
+</customer>
